@@ -1,0 +1,15 @@
+groq
+vosk
+sounddevice
+faster-whisper
+numpy
+edge-tts
+pygame
+python-dotenv
+customtkinter
+pillow
+pyautogui
+keyboard
+psutil
+pywhatkit
+opencv-python

@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+config.py
+
+# Debug recordings
+debug_audio/
+
+# Local memory
+memory.json
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local Vosk models
+vosk-model-en-us-0.22/
+vosk-model-en-us-0.22-lgraph/
+vosk-model-small-en-us-0.15/
+
+# Local test scripts
+mic_test.py
+test_web.py
+test_whisper.py
+vosk_test.py
